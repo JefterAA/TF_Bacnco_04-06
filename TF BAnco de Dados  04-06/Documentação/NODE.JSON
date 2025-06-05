@@ -1,0 +1,21 @@
+{
+  "id_entrega": "123456",
+  "id_cliente": "78910",
+  "origem": {
+    "endereco": "Rua A, Cidade X",
+    "coordenadas": {
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    }
+  },
+  "destino": {
+    "endereco": "Rua B, Cidade Y",
+    "coordenadas": {
+      "latitude": -22.9009,
+      "longitude": -43.2075
+    }
+  },
+  "status": "Em trânsito",
+  "data_hora_coleta": "2025-06-04T14:00:00",
+  "data_hora_entrega": "2025-06-05T10:30:00"
+}
