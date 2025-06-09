@@ -1,6 +1,6 @@
 {
-  "id_entrega": "123456",
-  "id_cliente": "78910",
+  "id_entrega": "2424",
+  "id_cliente": "2525",
   "origem": {
     "endereco": "Rua A, Cidade X",
     "coordenadas": {
@@ -19,3 +19,4 @@
   "data_hora_coleta": "2025-06-04T14:00:00",
   "data_hora_entrega": "2025-06-05T10:30:00"
 }
+
